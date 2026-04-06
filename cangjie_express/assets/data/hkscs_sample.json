@@ -1,0 +1,37 @@
+[
+  {
+    "char": "攞",
+    "cangjie": "手田中",
+    "unicode": "654E",
+    "jyutping": "lo2",
+    "frequency": 85
+  },
+  {
+    "char": "人",
+    "cangjie": "亼",
+    "unicode": "4EBA",
+    "jyutping": "jan4",
+    "frequency": 1500
+  },
+  {
+    "char": "大",
+    "cangjie": "大",
+    "unicode": "5927",
+    "jyutping": "daai6",
+    "frequency": 1200
+  },
+  {
+    "char": "天",
+    "cangjie": "一大",
+    "unicode": "5929",
+    "jyutping": "tin1",
+    "frequency": 1000
+  },
+  {
+    "char": "地",
+    "cangjie": "土一",
+    "unicode": "5730",
+    "jyutping": "dei6",
+    "frequency": 950
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "char": "人",
+    "cangjie": "亼",
+    "frequency": 1500
+  },
+  {
+    "char": "大",
+    "cangjie": "大",
+    "frequency": 1200
+  },
+  {
+    "char": "天",
+    "cangjie": "一大",
+    "frequency": 1000
+  },
+  {
+    "char": "地",
+    "cangjie": "土一",
+    "frequency": 950
+  },
+  {
+    "char": "攞",
+    "cangjie": "手田中",
+    "frequency": 85
+  },
+  {
+    "char": "木",
+    "cangjie": "木",
+    "frequency": 1100
+  },
+  {
+    "char": "火",
+    "cangjie": "火",
+    "frequency": 900
+  },
+  {
+    "char": "水",
+    "cangjie": "水",
+    "frequency": 800
+  },
+  {
+    "char": "金",
+    "cangjie": "金",
+    "frequency": 700
+  }
+]
